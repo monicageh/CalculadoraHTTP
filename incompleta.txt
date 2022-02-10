@@ -1,0 +1,7 @@
+POST /calc HTTP/1.1 
+Host: http://malamen.dit.upm.es
+Content-type: application/x-www-form-urlencoded
+Accept: text/html,text/text,application/json
+Content-Length: 2500
+Connection: keep-alive
+n1=5&n2=7&op=2B
